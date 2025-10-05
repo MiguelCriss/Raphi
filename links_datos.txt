@@ -1,0 +1,5 @@
+datos TEMPO en tiempo real:
+https://nssrgeo.ndc.nasa.gov/SPoRT/tempo/geotiffs/
+
+datos para el entrenamiento:
+https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india
